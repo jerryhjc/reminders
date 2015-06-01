@@ -32,3 +32,5 @@ public class Reminder {
         mContent = content;
     }
 }
+
+// some change in Reminder.java 
